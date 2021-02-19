@@ -9,6 +9,7 @@ int main() {
     }
     kiir(x);
     return 0;
+    //komment
 }
 void kiir(int x)
 {
