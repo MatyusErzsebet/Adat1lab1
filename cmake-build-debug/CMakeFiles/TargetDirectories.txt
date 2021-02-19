@@ -1,0 +1,3 @@
+D:/Sapi-Info-II/Adat1lab/cmake-build-debug/CMakeFiles/Adat1lab.dir
+D:/Sapi-Info-II/Adat1lab/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Sapi-Info-II/Adat1lab/cmake-build-debug/CMakeFiles/rebuild_cache.dir
